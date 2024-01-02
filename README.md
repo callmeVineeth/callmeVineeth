@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm a FRONTEND DEVELOPER who spends time on REACTJS<br><br>👯 I'm looking to collaborate on OpenSource Projects.<br>💬 Ask me about Javascript and React <br>📚 I'm currently learning NodeJs, ExpressJs and MongoDB<br>🎯 Goals 2024: Master Full stack development<br>⚡ Fun fact: I code like a nija pro <br>      but can't figure out why my printer stops working
+💻I'm a FRONTEND DEVELOPER who spends time on REACTJS<br><br>👯 I'm looking to collaborate on OpenSource Projects.<br>💬 Ask me about Javascript and React <br>📚 I'm currently learning NodeJs, ExpressJs and MongoDB<br>🎯 Goals 2024: Master Full stack development<br>⚡ Fun fact: I code like a nija pro but can't figure out why my printer stops working
 
 
 ## 🌐 Socials:
