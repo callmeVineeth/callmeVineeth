@@ -1,7 +1,12 @@
-![](camera1.jpg)
+<div >
+ <div>
 # 💫 About Me:
 💻I'm a FRONTEND DEVELOPER who spends time on REACTJS<br><br>👯 I'm looking to collaborate on OpenSource Projects.<br>💬 Ask me about Javascript and React <br>📚 I'm currently learning NodeJs, ExpressJs and MongoDB<br>🎯 Goals 2024: Master Full stack development<br>⚡ Fun fact: I code like a nija pro but can't figure out why my printer stops working
-
+ </div> 
+<div>
+![](camera1.jpg)
+</div>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ethen2408) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callmeVineeth24) 
