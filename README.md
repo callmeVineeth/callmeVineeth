@@ -1,4 +1,5 @@
-<div style="background-color: red;">
+
+<div style="background-color: #f0f0f0; padding: 20px;">
   
 <div style="display: flex;">
   <div style="width: 50%; padding: 20px;">
