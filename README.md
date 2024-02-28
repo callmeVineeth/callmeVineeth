@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&random=false&width=435&lines=Frontend+Developer;React+Developer)](https://git.io/typing-svg)
+<div>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&random=false&width=435&lines=Frontend+Developer;React+Developer)](https://git.io/typing-svg)
 <div style="background-color: #f0f0f0; padding: 20px;">
+
+</div>
   
 <div style="display: flex;">
   <div style="width: 50%; padding: 20px;">
